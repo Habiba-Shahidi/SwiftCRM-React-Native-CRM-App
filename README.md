@@ -1,3 +1,57 @@
+SwiftCRM – React Native CRM App
+SwiftCRM is a modern Customer Relationship Management (CRM) mobile application built with React Native and TypeScript, designed to help businesses efficiently manage leads, deals, tasks, and team activities. With a clean and attractive UI/UX, SwiftCRM is optimized for mobile devices and offers smooth navigation, interactive dashboards, and quick actions.
+
+
+Project Overview
+SwiftCRM provides a seamless mobile experience for managing business operations:
+Track and manage leads from initial inquiry to deal closure.
+Monitor deal pipelines with interactive visual stages.
+Quickly view key metrics like leads, deals, revenue, and tasks.
+Personalize your profile and track activities.
+Modern UI/UX with gradient themes, icons, and animations.
+
+Features
+✅ Splash Screen with animation
+✅ Secure Login Screen
+✅ Dashboard with stats cards
+✅ Leads Management
+✅ Deals Pipeline (Prospect, Negotiation, Closed)
+✅ Profile Management
+✅ Quick Actions (Add Lead, Create Deal, Add Task)
+✅ Offline-friendly layout
+✅ Modern color schemes, icons, and linear gradients
+✅ Responsive and intuitive UI
+
+
+Tech Stack
+React Native v0.75.4 – Cross-platform mobile development
+TypeScript – Strong typing for maintainable code
+React Navigation – Stack & bottom tab navigation
+LinearGradient – Beautiful gradient UI designs
+Vector Icons – Ionicons for intuitive icons
+Animated API – Smooth splash and UI animations
+
+## Screenshots
+
+### Splash Screen
+![Splash Screen](assets/screenshots/SplashScreen.png)
+
+### Login Screen
+![Login Screen](assets/screenshots/LoginScreen.png)
+
+### Dashboard
+![Dashboard](assets/screenshots/Dashboard.png)
+
+### Leads Screen
+![Leads Screen](assets/screenshots/Leads.png)
+
+### Deals Screen
+![Deals Screen](assets/screenshots/Details.png)
+
+### Profile Screen
+![Profile Screen](assets/screenshots/ProfileScreen.png)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started

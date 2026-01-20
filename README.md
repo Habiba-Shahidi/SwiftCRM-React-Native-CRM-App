@@ -34,22 +34,22 @@ Animated API – Smooth splash and UI animations
 ## Screenshots
 
 ### Splash Screen
-![Splash Screen](assets/screenshots/SplashScreen.png)
+![Splash Screen](SwiftCRM/src/assets/screenshots/SplashScreen.png)
 
 ### Login Screen
-![Login Screen](assets/screenshots/LoginScreen.png)
+![Login Screen](SwiftCRM/src/assets/screenshots/LoginScreen.png)
 
 ### Dashboard
-![Dashboard](assets/screenshots/Dashboard.png)
+![Dashboard](SwiftCRM/src/assets/screenshots/Dashboard.png)
 
 ### Leads Screen
-![Leads Screen](assets/screenshots/Leads.png)
+![Leads Screen](SwiftCRM/src/assets/screenshots/Leads.png)
 
 ### Deals Screen
-![Deals Screen](assets/screenshots/Details.png)
+![Deals Screen](SwiftCRM/src/assets/screenshots/Details.png)
 
 ### Profile Screen
-![Profile Screen](assets/screenshots/ProfileScreen.png)
+![Profile Screen](SwiftCRM/src/assets/screenshots/ProfileScreen.png)
 
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).

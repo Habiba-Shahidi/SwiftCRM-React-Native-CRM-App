@@ -33,6 +33,8 @@ Animated API – Smooth splash and UI animations
 
 ## Screenshots
 
+### Preview
+![Preview](src/assets/screenshots/SwiftCRMPreview.png)
 ### Splash Screen
 ![Splash Screen](src/assets/screenshots/SplashScreen.png)
 

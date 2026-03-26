@@ -1,16 +1,17 @@
-// App.js
+// App.tsx
 import React from 'react';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { StatusBar } from 'react-native';
-import RootNavigator from './src/navigation/RootNavigator';
+import AppNavigator from './src/navigation/AppNavigator';
 
-const App = () => {
+const App: React.FC = () => {
   return (
     <SafeAreaProvider>
-      <StatusBar barStyle='default' />
-      <RootNavigator />
+      <StatusBar barStyle="default" />
+    <AppNavigator />
     </SafeAreaProvider>
   );
 };
 
 export default App;
+
